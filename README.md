@@ -88,7 +88,7 @@ Created two audiences (Low and High Frequency) based on bar attendance. The defi
 
 The majority of coupons are coming from low frequency participants.
 
-**2.4 Takeaways on Bar Coupons
+**2.2 Takeaways on Bar Coupons
 
 $\color{red}{Conclusion}$
 **Offer more coupons to new participants and new attendies.**
@@ -97,37 +97,29 @@ $\color{red}{Conclusion}$
 
 #### 1. What proportion of coffee house coupons were accepted?
 
-Accepted Coffee coupons represent `27.7%` of accepted coupons and `15.7%` of total coupons (accepted or not).
+`49.9%` of Coffee House coupons were acceptted.
 
-<img src="images/plot8_1.png" alt="Figure 3.1">
+<img src="images/proportionCoffee.png" alt="Coffee proportion">
 
 #### 2. Identifying passenger profiles around coffee house attendance
+**2.1 Behaviour Analysis**
 
-Some behavioural analysis showed some good insights around coffee house attendance on accepted coupons.  
+the acceptance of Coffee coupons is primarily influenced by the presence of children
+The acceptance of Coffee coupons increases as the number of passengers increase.
 
-**2.2 Accepted Coffee Coupons, passenger types, and time of day**
+$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
 
-<img src="images/plot8_2_1.png" width="75%">
+<img src="images/coffeeAcepttanceAge.png" width="75%">
 
-$\color{orange}{Analysis}$ Behaviour differs depending on their companionship.
-Alone people likes to grab coffee either very early (7am) or quite late (6pm) and skip lunchtime (2pm).
-People hanging out with friends mostly grab coffee around lunchtime (2pm).
-Both profiles are the most likely to accept a coupon when compared to people accompanied by a partner or kid(s)
+$\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
 
+
+For people in their 20s with children tend to grab coffee at higher frequencies than those who do not have children. 
+People with children drops to it's lowest in the early 30s, where as that same age shows that people without children provides a higher percentage.
+ 
+<img src="images/coffeeAcceptanceAge.png" width="75%">
 
 **2.3 Accepted Coffee Coupons, passenger types, and attendance frequency**
-
-**2.3.1 Scoring System**
-
-To better analyze attendance behaviour, a scoring system was created based on the following criteria:
-
-| Attendance (per month) | Score Value |
-|------------------------|-------------|
-| never                  | 0           |
-| less than 1            | 1           |
-| between 1 and 3        | 2           |
-| between 4 and 8        | 6           |
-| more than 8            | 9           |
 
 **2.3.2 Analyzing results**
 
