@@ -106,19 +106,19 @@ $\color{red}{Conclusion}$
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
 
-$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
+$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by drivers who have children.`
 
 <img src="images/coffeeAcceptanceAge.png" width="75%">
 
 $\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
 
-People in their 20s with children have a higher acceptance rate than those who do not have children. 
+Drivers in their 20s with children have a higher acceptance rate than those who do not have children. 
 
-People in their early 30s without children have a higher acceptance rate than those who do not have children. 
+Drivers in their early 30s without children have a higher acceptance rate than those who do not have children. 
 
-People 40 and above without children have a higher acceptance rate
+Drivers 40 and above without children have a higher acceptance rate
 
-People with children drop to their lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
+Drivers with children drop to their lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
 
 **2.2 Behaviour Analysis for Drivers with Passengers**
 
