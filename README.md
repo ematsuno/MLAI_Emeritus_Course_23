@@ -75,7 +75,7 @@ Coffee House coupons are the best performers, they will be further analized belo
 
 The acceptance of Bar coupons is primarily influenced by driver habits.  
 
-The acceptance rate decreases when there are more than 3 vists a month.
+The acceptance rate decreases when there are more than 3 visits a month.
 
 <img src="images/ProportionFrequency.png" alt="Figure 2.2" width="75%">
 
@@ -105,7 +105,7 @@ $\color{red}{Conclusion}$
 **2.1 Behaviour Analysis**
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
-The acceptance of Coffee coupons increases as the number of passengers increase.
+The acceptance of Coffee coupons increases as the number of passengers increases.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
 
@@ -115,7 +115,7 @@ $\color{orange}{Analysis}$ Behaviour differs depending on their age and whether 
 
 
 For people in their 20s with children tend to grab coffee at higher frequencies than those who do not have children. 
-People with children drops to it's lowest in the early 30s, where as that same age shows that people without children provides a higher percentage.
+People with children drop to it's lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
  
 <img src="images/coffeeAcceptanceAge.png" width="75%">
 
