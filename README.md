@@ -105,12 +105,11 @@ $\color{red}{Conclusion}$
 **2.1 Behaviour Analysis**
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
-
 The acceptance of Coffee coupons increases as the number of passengers increase.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
 
-<img src="images/coffeeAcepttanceAge.png" width="75%">
+<img src="images/coffeeAcceptanceAge.png" width="75%">
 
 $\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
 
