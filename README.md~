@@ -104,7 +104,7 @@ $\color{red}{Conclusion}$
 #### 2. Identifying passenger profiles around coffee house attendance
 **2.1 Behaviour Analysis**
 
-the acceptance of Coffee coupons is primarily influenced by the presence of children
+The acceptance of Coffee coupons is primarily influenced by the presence of children. \n
 The acceptance of Coffee coupons increases as the number of passengers increase.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
