@@ -53,13 +53,13 @@ The attributes of this data set include:
 
 #### 1. What proportion of the total observations chose to accept the coupon?
 
-Coupon acceptance rate is `56.84%`.
+The coupon acceptance rate is `56.84%`.
 
 The accepted coupons are distributed as follows:
 
 <img src="images/CouponTypeDistribution.png" alt="Coupon Type Distribution" width="75%">
 
-Coffee House coupons are the best performers, they will be further analized below.
+Coffee House coupons are the best performers, they will be further analyzed below.
 
 ## II. Bar coupons analysis
 
@@ -69,7 +69,7 @@ Coffee House coupons are the best performers, they will be further analized belo
 
 <img src="images/proportionBar.png" alt="Figure 2.1">
 
-#### 2. Identifying behaviour around bar attendance
+#### 2. Identifying behavior around bar attendance
 
 **2.1 Behaviour Analysis**
 
@@ -83,21 +83,21 @@ $\color{green}{Hypothesis}$`Bar coupon acceptance is driven by people that go to
 
 Created two audiences (Low and High Frequency) based on bar attendance. The definitions are as follows:
 
-- *<font color=gray>Low frequency Audience:</font> those who went to a bar 3 or fewer times a month*
-- *<font color=gray>High frequency Audience:</font> those who went to a bar more than 3 times a month*
+- *<font color=gray> Low-frequency Audience:</font> those who went to a bar 3 or fewer times a month*
+- *<font color=gray> High-frequency Audience:</font> those who went to a bar more than 3 times a month*
 
-The majority of coupons are coming from low frequency participants.
+The majority of coupons are coming from low-frequency participants.
 
 **2.2 Takeaways on Bar Coupons
 
 $\color{red}{Conclusion}$
-**Offer more coupons to new participants and new attendies.**
+**Offer more coupons to new participants and new attendees.**
 
 ## III. Coffee House coupons analysis
 
 #### 1. What proportion of coffee house coupons were accepted?
 
-`49.9%` of Coffee House coupons were acceptted.
+`49.9%` of Coffee House coupons were accepted.
 
 <img src="images/proportionCoffee.png" alt="Coffee proportion">
 
@@ -105,6 +105,7 @@ $\color{red}{Conclusion}$
 **2.1 Behaviour Analysis**
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
+
 The acceptance of Coffee coupons increases as the number of passengers increases.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
@@ -113,9 +114,9 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people w
 
 $\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
 
-
 For people in their 20s with children tend to grab coffee at higher frequencies than those who do not have children. 
-People with children drop to it's lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
+
+People with children drop to their lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
  
 <img src="images/coffeeAcceptanceAge.png" width="75%">
 
