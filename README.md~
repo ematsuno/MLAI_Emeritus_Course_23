@@ -81,17 +81,22 @@ The acceptance rate decreases when there are more than 3 vists a month.
 
 $\color{green}{Hypothesis}$`Bar coupon acceptance is driven by people that go to bars up to 3 times per month.` dd
 
+**2.3 Looking deeper into the Hypothesis**
+
 Created two audiences (Low and High Frequency) based on bar attendance. The definitions are as follows:
 
 - *<font color=gray>Low frequency Audience:</font> those who went to a bar 3 or fewer times a month*
 - *<font color=gray>High frequency Audience:</font> those who went to a bar more than 3 times a month*
 
-The majority of coupons are coming from low frequency participants.
+When looking at the accepted coupons of these two audiences,
+it's clear that most of the coupons are coming from the *Low frequency Audience*. Which is consistent with the hypothesis.
 
-**2.4 Takeaways on Bar Coupons
+<img src="images/plot3_1.png" alt="Figure 2.3">
+
+**2.4 Final thoughts on Bar Coupons**
 
 $\color{red}{Conclusion}$
-**Offer more coupons to new participants and new attendies.**
+**Offer less coupons to people that never go to bars and more to people that go up to 3 times per month.**
 
 ## III. Coffee House coupons analysis
 
