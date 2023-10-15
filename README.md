@@ -102,11 +102,9 @@ $\color{red}{Conclusion}$
 <img src="images/proportionCoffee.png" alt="Coffee proportion">
 
 #### 2. Identifying passenger profiles around coffee house attendance
-**2.1 Behaviour Analysis for Drivers with Childen**
+**2.1 Behaviour Analysis for Drivers with Children**
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
-
-The acceptance of Coffee coupons increases as the number of passengers increases.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who have children.`
 
@@ -123,6 +121,7 @@ People 40 and above without children have a higher acceptance rate
 People with children drop to their lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
 
 **2.2 Behaviour Analysis for Drivers with Passengers**
+
 The acceptance of Coffee coupons increases as the number of passengers increases.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who passengers.`
@@ -150,7 +149,7 @@ Scores of 1, 2, and 6 are in the top 3 performers across the board. A score of 2
 $\color{green}{Hypothesis}$`Attendance frequency is driving coupon acceptance
 (Most likely a score of 2)`
 
-**2.3.3 Looking deeper into the Hypothesis**
+**2.3.3 Looking Deeper into the Hypothesis**
 
 When looking at accepted coupons based on coffee house attendance frequency,
 people with a score of `2` have a good chance of accepting the coupon.
