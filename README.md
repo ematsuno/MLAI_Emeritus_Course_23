@@ -146,6 +146,8 @@ We hypothesize that Coffee House visits accompanied by children exhibit a notabl
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people tend to be recreational.`
 <img src="images/CoffeeByDestination.png" width="50%">
+$\color{orange}{Analysis}$ Behaviour differs depending on the destination.
+
 
 Investigating further, people with scores of 2 and 6 represent `53.2%` of all coffee accepted coupons.
 
