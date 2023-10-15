@@ -142,9 +142,7 @@ The analysis of Coffee House coupons reveals that approximately 49.9% of these c
 
 **2.3.3 Looking Deeper into the Hypothesis**
 
-When looking at accepted coupons based on coffee house attendance frequency,
-people with a score of `2` have a good chance of accepting the coupon.
-But also scores of `6` are also looking good when compared to the rejected coupon behaviour.
+We hypothesize that Coffee House visits accompanied by children exhibit a notably high acceptance rate. This appears to be driven by social dynamics, prompting us to explore this further by examining the impact of variables such as the time of day and destination.
 
 <img src="images/plot8_3.png" width="50%">
 
