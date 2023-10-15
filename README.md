@@ -102,7 +102,7 @@ $\color{red}{Conclusion}$
 <img src="images/proportionCoffee.png" alt="Coffee proportion">
 
 #### 2. Identifying passenger profiles around coffee house attendance
-**2.1 Behaviour Analysis**
+**2.1 Behaviour Analysis for Drivers with Childen**
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
 
@@ -114,11 +114,27 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people w
 
 $\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
 
-For people in their 20s with children tend to grab coffee at higher frequencies than those who do not have children. 
+People in their 20s with children have a higher acceptance rate than those who do not have children. 
+
+People in their early 30s without children have a higher acceptance rate than those who do not have children. 
+
+People 40 and above without children have a higher acceptance rate
 
 People with children drop to their lowest in the early 30s, whereas that same age shows that people without children provide a higher percentage.
+
+**2.2 Behaviour Analysis for Drivers with Passengers**
+The acceptance of Coffee coupons increases as the number of passengers increases.
+
+$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who passengers.`
+
+<img src="images/CoffeeAgeNumPassengers.png" width="75%">
+
+$\color{orange}{Analysis}$ Behaviour differs depending on the number of passengers.
+
+
+**2.2 Behaviour Analysis on Passengers**
  
-<img src="images/coffeeAcceptanceAge.png" width="75%">
+<img src="images/CoffeeAgeNumPassengers" width="75%">
 
 **2.3 Accepted Coffee Coupons, passenger types, and attendance frequency**
 
