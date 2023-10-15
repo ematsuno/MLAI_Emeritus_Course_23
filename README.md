@@ -122,7 +122,7 @@ Drivers with children drop to their lowest in the early 30s, whereas that same a
 
 **2.2 Behaviour Analysis for Drivers with Passengers**
 
-The acceptance of Coffee coupons increases as the number of passengers increases.
+The acceptance of Coffee coupons is affected by passengers.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who passengers.`
 
@@ -130,24 +130,15 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people w
 
 $\color{orange}{Analysis}$ Behaviour differs depending on the number of passengers.
 
+Drivers of every age group show a consistent top rate of acceptance for passengers ranging from 4-8.
 
-**2.2 Behaviour Analysis on Passengers**
- 
-<img src="images/CoffeeAgeNumPassengers" width="75%">
+Drivers of every age group show consistently that not having a passenger is the lowest acceptance rate.
 
-**2.3 Accepted Coffee Coupons, passenger types, and attendance frequency**
+**2.3 Accepted Coffee Coupons, passengers, and age**
 
-**2.3.2 Analyzing results**
+**2.3.1 Analyzing results**
 
-Given the scoring system above, the analysis reports the following findings:
-
-<img src="images/plot8_2_2.png">
-
-$\color{orange}{Analysis}$ Behaviour is consistent among all 4 passenger profiles.
-Scores of 1, 2, and 6 are in the top 3 performers across the board. A score of 2 is top 1 in 3 out of 4 profiles
-
-$\color{green}{Hypothesis}$`Attendance frequency is driving coupon acceptance
-(Most likely a score of 2)`
+The analysis of Coffee House coupons reveals that approximately 49.9% of these coupons were accepted by drivers. The acceptance of Coffee House coupons appears to be  influenced by the presence of children and the number of passengers in the car. Drivers with children, particularly those in their 20s and 30s, tend to have higher acceptance rates compared to those without children. Additionally, he number of passengers plays a significant role, with drivers of all age groups exhibiting consistently higher acceptance rates when they have 4-8 passengers. This suggests that Coffee House coupon acceptance is driven by factors such as family dynamics and the social context of having passengers in the car. 
 
 **2.3.3 Looking Deeper into the Hypothesis**
 
