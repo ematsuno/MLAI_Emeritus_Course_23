@@ -110,7 +110,7 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by age and 
 
 <img src="images/coffeeAcceptanceAge.png" width="75%">
 
-$\color{orange}{Analysis}$ Behaviour differs depending on their age and whether they have children.
+$\color{orange}{Observation}$ Behaviour differs depending on their age and whether they have children.
 
 Drivers in their 20s with children have a higher acceptance rate than those who do not have children. 
 
@@ -128,7 +128,7 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance is affected by the pe
 
 <img src="images/CoffeeAgeNumPassengers.png" width="75%">
 
-$\color{orange}{Analysis}$ Behaviour differs depending on the number of passengers.
+$\color{orange}{Observation}$ Behaviour differs depending on the number of passengers.
 
 Drivers of every age group show a consistent top rate of acceptance for passengers ranging from 4-8.
 
@@ -148,5 +148,5 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people 
 
 <img src="images/CoffeeByDestination.png" width="75%">
 
-$\color{orange}{Analysis}$ Behaviour differs when the destination is unrelated to work or job-related activities.
+$\color{orange}{Observation}$ Behaviour differs when the destination is unrelated to work or job-related activities.
 
