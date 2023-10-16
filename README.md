@@ -106,7 +106,7 @@ $\color{red}{Conclusion}$
 
 The acceptance of Coffee coupons is primarily influenced by the presence of children.
 
-$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by drivers who have children.`
+$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by age and family factors.`
 
 <img src="images/coffeeAcceptanceAge.png" width="75%">
 
