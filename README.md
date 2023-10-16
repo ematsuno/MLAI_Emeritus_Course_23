@@ -124,7 +124,7 @@ Drivers with children drop to their lowest in the early 30s, whereas that same a
 
 The acceptance of Coffee coupons is affected by passengers.
 
-$\color{green}{Hypothesis}$`Coffee House coupon acceptance is driven by people who passengers.`
+$\color{green}{Hypothesis}$`Coffee House coupon acceptance is affected by the personnel in the vehicle.`
 
 <img src="images/CoffeeAgeNumPassengers.png" width="75%">
 
