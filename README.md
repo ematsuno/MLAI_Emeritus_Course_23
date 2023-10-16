@@ -155,12 +155,15 @@ $\color{orange}{Observation}$ Behaviour differs when the destination is unrelate
 **Bar Coupons Targeting:**
 
 Focus marketing efforts on drivers who visit bars less frequently (3 or fewer times a month) as they have a higher acceptance rate.
+
 Create promotions and incentives to attract younger drivers (25 and under) to bar establishments.
 
 **Coffee House Coupons Targeting:**
 
 Target drivers below 30 years of age for coffee house coupons.
+
 Develop marketing campaigns highlighting the appeal of coffee houses to younger age groups.
+
 Create coupons designed for groups for children-focused events.
 
 **General Recommendations**
