@@ -150,7 +150,7 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people 
 
 $\color{orange}{Observation}$ Behaviour differs when the destination is unrelated to work or job-related activities.
 
-### Recommendations and Action Plan:
+### Targeting and Recommendations:
 
 **Bar Coupons Targeting:**
 
