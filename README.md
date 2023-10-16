@@ -146,7 +146,7 @@ We hypothesize that Coffee House visits accompanied by children exhibit a notabl
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people tend to be recreational.`
 
-<img src="images/CoffeeAgeNumPassengers.png" width="75%">
+<img src="images/CoffeeByDestination.png" width="75%">
 
 $\color{orange}{Analysis}$ Behaviour differs when the destination is unrelated to work or job-related activities.
 
@@ -156,7 +156,7 @@ Investigating further, people with scores of 2 and 6 represent `53.2%` of all co
 
 <img src="images/plot8_4_2.png">
 
-The hypothesis was in the right track but when comparing with the rejected coupons, was able to identify
+The hypothesis was on the right track but when comparing with the rejected coupons, was able to identify
 that scores of 6 were also performing good. Scores of `1` where also investigated but turn out to have a
 `51.8%` rejection rate. As it's shown below, scores of `2-6` represent `66.1%` of all accepted coffee coupons.
 
