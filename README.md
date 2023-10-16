@@ -150,3 +150,14 @@ $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people 
 
 $\color{orange}{Observation}$ Behaviour differs when the destination is unrelated to work or job-related activities.
 
+**Recommendations and Action Plan:
+
+**Bar Coupons Targeting:
+
+Focus marketing efforts on drivers who visit bars less frequently (3 or fewer times a month) as they have a higher acceptance rate.
+Create promotions and incentives to attract younger drivers (25 and under) to bar establishments.
+
+**Coffee House Coupons Targeting:
+
+Target drivers below 30 years of age for coffee house coupons, with a specific emphasis on those under 21.
+Develop marketing campaigns highlighting the appeal of coffee houses to younger age groups.
