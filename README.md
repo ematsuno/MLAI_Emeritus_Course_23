@@ -145,7 +145,7 @@ The analysis of Coffee House coupons reveals that approximately 49.9% of these c
 We hypothesize that Coffee House visits accompanied by children exhibit a notably high acceptance rate. This appears to be driven by social dynamics, prompting us to explore this further by examining the impact of variables such as the time of day and destination.
 
 $\color{green}{Hypothesis}$`Coffee House coupon acceptance for groups of people tend to be recreational.`
-<img src="images/CoffeeByDestination.png" width="75%">
+<img src="images/coffeeAcceptanceAge.png" width="75%">
 $\color{orange}{Analysis}$Behavior varies when the destination is unrelated to work or job-related activities.
 
 
